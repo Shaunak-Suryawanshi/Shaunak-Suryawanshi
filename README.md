@@ -18,30 +18,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Shaunak-Suryawanshi&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shaunak-Suryawanshi&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Shaunak-Suryawanshi/Shaunak-Suryawanshi/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
