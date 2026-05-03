@@ -13,17 +13,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,aws,python,django,git,github,bash,redis,mongodb,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaunak-Suryawanshi&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaunak-Suryawanshi&layout=compact&theme=tokyonight&cache_seconds=1800" height="180em"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,aws,python,django,java,git,github,bash,redis,mongodb,vscode" />
 </p>
 
 ---
@@ -40,14 +30,6 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Shaunak-Suryawanshi&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaunak-Suryawanshi&theme=tokyo-night" />
 </p>
 
 ---
