@@ -1,16 +1,88 @@
-## Hi there 👋
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=500&lines=Hi+I'm+Shaunak+%F0%9F%91%8B;DevOps+%7C+System+Engineer;Cloud+%7C+AWS+%7C+Kubernetes;DevSecOps+Learner" />
 
-<!--
-**Shaunak-Suryawanshi/Shaunak-Suryawanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+💻 Aspiring DevOps & System Engineer  
+☁️ Learning Cloud, Kubernetes & Terraform  
+🔐 Interested in DevSecOps & Cybersecurity  
+🐧 Linux Enthusiast  
+⚡ Building real-world DevOps projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,aws,python,django,git,github,bash,redis,mongodb,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaunak-Suryawanshi&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaunak-Suryawanshi&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Shaunak-Suryawanshi&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shaunak-Suryawanshi&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaunak-Suryawanshi&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Shaunak-Suryawanshi/Shaunak-Suryawanshi/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/shaunak-suryawanshi">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Shaunak-Suryawanshi">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+## ☁️ DevOps Journey
+
+```yaml
+Learning:
+  - Docker
+  - Kubernetes
+  - Terraform
+  - AWS
+  - Jenkins
+  - Linux
+  - Monitoring
+  - DevSecOps
