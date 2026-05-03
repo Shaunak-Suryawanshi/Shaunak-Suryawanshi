@@ -40,15 +40,47 @@
 
 ---
 
-## ☁️ DevOps Journey
+## ☁ Current Focus
 
-```yaml
-Learning:
-  - Docker
-  - Kubernetes
-  - Terraform
-  - AWS
-  - Jenkins
-  - Linux
-  - Monitoring
-  - DevSecOps
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="300">
+
+### 🚀 DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,aws" />
+
+Docker • Kubernetes • Jenkins  
+Terraform • AWS • Ansible  
+
+</td>
+
+<td align="center" width="300">
+
+### 🔐 Security
+
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+
+DevSecOps • SOC Fundamentals  
+Linux Hardening
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 💻 Backend
+
+<img src="https://skillicons.dev/icons?i=python,django,redis,mongodb" />
+
+Python • Django • APIs  
+Redis • MongoDB
+
+</td>
+</tr>
+</table>
+
+</div>
