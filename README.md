@@ -29,11 +29,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/shaunak-suryawanshi">
+<a href="https://linkedin.com/in/shaunak-suryawanshi-7a55b8232">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://github.com/shaunak-suryawanshi-7a55b8232">
+<a href="https://github.com/Shaunak-Suryawanshi">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 </p>
