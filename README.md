@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,aws,python,django,java,git,github,bash,redis,mongodb,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,aws,python,django,java,sql,git,github,bash,redis,mongodb,vscode" />
 </p>
 
 ---
