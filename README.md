@@ -98,42 +98,87 @@
 <div align="center">
 
 <table>
+
 <tr>
-<td align="center" width="300">
+
+<td align="center" width="320">
 
 ### 🚀 DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,aws" />
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="kubernetes logo" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="45" alt="jenkins logo" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" alt="terraform logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45" alt="ansible logo" />
+
+<br><br>
 
 Docker • Kubernetes • Jenkins  
-Terraform • AWS • Ansible  
+Terraform • AWS • Ansible
 
 </td>
 
-<td align="center" width="300">
+<td align="center" width="320">
 
 ### 🔐 Security
 
-<img src="https://skillicons.dev/icons?i=linux,bash" />
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo" />
+
+<br><br>
 
 DevSecOps • SOC Fundamentals  
 Linux Hardening
 
 </td>
+
 </tr>
 
 <tr>
+
 <td colspan="2" align="center">
 
 ### 💻 Backend
 
-<img src="https://skillicons.dev/icons?i=python,django,redis,mongodb" />
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="django logo" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis logo" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
+
+<br><br>
 
 Python • Django • APIs  
 Redis • MongoDB
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
