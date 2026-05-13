@@ -29,7 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
@@ -53,9 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
-  <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
   <img width="12" />
 
@@ -122,7 +122,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" alt="terraform logo" />
 <img width="10" />
 
-<img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="azure logo" />
 <img width="10" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45" alt="ansible logo" />
@@ -130,7 +130,7 @@
 <br><br>
 
 Docker • Kubernetes • Jenkins  
-Terraform • AWS • Ansible
+Terraform • Azure • Ansible
 
 </td>
 
