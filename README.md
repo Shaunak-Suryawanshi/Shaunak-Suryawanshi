@@ -78,7 +78,19 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.hackclub.dev/api/pin/?username=Shaunak-Suryawanshi&repo=Devops-Azure-Project-1&theme=tokyonight)](https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-1)
+<a href="https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-1">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Azure%20Infrastructure%20Automation&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Terraform%20•%20Jenkins%20•%20Docker%20•%20Azure%20•%20Trivy&descAlignY=60&descAlign=50"/>
+
+</a>
+
+</div>
+
+<div align="center">
+
+### ☁ Azure Infrastructure Automation & Monitoring Platform
+
+<img src="https://skillicons.dev/icons?i=azure,terraform,jenkins,docker,python,github" />
 
 </div>
 
