@@ -74,11 +74,15 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Featured Project
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shaunak-Suryawanshi/Shaunak-Suryawanshi/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+
+<a href="https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaunak-Suryawanshi&repo=Devops-Azure-Project-1&theme=tokyonight" />
+</a>
+
+</div>
 
 ---
 
