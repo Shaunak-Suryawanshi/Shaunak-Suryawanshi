@@ -83,16 +83,6 @@
 
 ---
 
----
-
-### ☁ Azure Infrastructure Automation & Monitoring Platform
-
-<img src="https://skillicons.dev/icons?i=azure,terraform,jenkins,docker,python,github" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
