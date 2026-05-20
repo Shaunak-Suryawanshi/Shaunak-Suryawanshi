@@ -75,7 +75,6 @@
 ---
 
 ## 🚀 Featured Project
-
 <div align="center">
 
 <a href="https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-1">
