@@ -76,17 +76,32 @@
 
 ## 🚀 Featured Project
 
-<div align="center">
+<table>
+<tr>
+<td width="100%">
 
-<a href="https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-1">
+### ☁ Azure Infrastructure Automation & Monitoring Platform
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Azure%20Infrastructure%20Automation&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Terraform%20•%20Jenkins%20•%20Docker%20•%20Azure%20•%20Trivy&descAlignY=60&descAlign=50"/>
+A hands-on DevOps project focused on cloud automation, CI/CD, security scanning, and containerized deployment using Azure.
 
-</a>
+#### 🛠 Tech Stack
+Azure • Terraform • Jenkins • Docker • Trivy • Python
 
-</div>
+#### ⚡ Highlights
+- Infrastructure as Code with Terraform
+- Jenkins CI/CD Pipeline
+- Dockerized Flask Application
+- Trivy Security Scanning
+- Automated Deployment Workflow
 
-<div align="center">
+🔗 Repository:  
+https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-1
+
+</td>
+</tr>
+</table>
+
+---
 
 ### ☁ Azure Infrastructure Automation & Monitoring Platform
 
