@@ -76,10 +76,13 @@
 
 ## 🚀 Projects
 
-📁 Azure Infrastructure Automation & Monitoring Platform  
-└── Terraform • Jenkins • Docker • Trivy • Azure
+<div align="center">
 
-🔗 https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-1
+[![Project](https://capsule-render.vercel.app/api?type=rect&color=0:1F1C2C,100:928DAB&height=120&section=header&text=Azure%20Infrastructure%20Automation&fontSize=24&fontColor=ffffff&animation=fadeIn)](https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-1)
+
+📁 Terraform • Jenkins • Docker • Trivy • Azure
+
+</div>
 
 ---
 
