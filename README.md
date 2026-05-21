@@ -86,14 +86,12 @@
 
 
 📁 Cloud-Native 3-Tier Incident Management Platform 
-└── Jenkins • Docker • Kubernetes • Trivy 
+└── Jenkins • Docker • Kubernetes • Trivy • Flask • MongoDB • Redis 
 
-
-🔗 https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-2.git
-
-</div>
+🔗 https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-2
 
 ---
+</div>
 
 ## 🌐 Connect With Me
 
