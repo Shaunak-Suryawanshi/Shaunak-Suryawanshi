@@ -85,13 +85,15 @@
 🔗 https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-1
 
 
-📁 Cloud-Native 3-Tier Incident Management Platform 
-└── Jenkins • Docker • Kubernetes • Trivy • Flask • MongoDB • Redis 
 
-🔗 https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-2
+📁 Azure Infrastructure Automation & Monitoring Platform  
+└── Terraform • Jenkins • Docker • Trivy • Azure
+
+🔗 https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-1
+
 
 ---
-</div>
+
 
 ## 🌐 Connect With Me
 
