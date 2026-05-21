@@ -86,8 +86,8 @@
 
 
 
-📁 Azure Infrastructure Automation & Monitoring Platform  
-└── Terraform • Jenkins • Docker • Trivy • Azure
+📁 Cloud-Native 3-Tier Incident Management Platform  
+└── Jenkins • Docker • Trivy • Kubernetes • Flask • MongoDB • Redis 
 
 🔗 https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-1
 
