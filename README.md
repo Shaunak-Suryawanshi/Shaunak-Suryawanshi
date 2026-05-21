@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=500&lines=Hi+I'm+Shaunak+%F0%9F%91%8B;DevOps+%7C+System+Engineer;Cloud+%7C+AWS+%7C+Kubernetes;DevSecOps+Learner" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=500&lines=Hi+I'm+Shaunak+%F0%9F%91%8B;DevOps+%7C+System+Engineer;Cloud+%7C+Azure+%7C+Kubernetes;DevSecOps+Learner" />
 
 ## 🚀 About Me
 
@@ -84,7 +84,7 @@
 
 🔗 https://github.com/Shaunak-Suryawanshi/Devops-Azure-Project-1
 
-
+---
 
 📁 Cloud-Native 3-Tier Incident Management Platform  
 └── Jenkins • Docker • Trivy • Kubernetes • Flask • MongoDB • Redis 
