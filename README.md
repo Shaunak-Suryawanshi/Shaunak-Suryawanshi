@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=500&lines=Hi+I'm+Shaunak+%F0%9F%91%8B;Java Full Stack+%7C+System+Engineer;Cloud+%7C+Azure+%7C+Kubernetes;DevOps+Learner" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=500&lines=Hi+I'm+Shaunak+%F0%9F%91%8B;Java+Full+Stack+%7C+System+Engineer;Cloud+%7C+Azure+%7C+Kubernetes;DevOps+Learner" />
 
 ## 🚀 About Me
 
