@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-💻 Aspiring DevOps & System Engineer  
+💻 Aspiring Java Full Stack and Cloud Learner  
 ☁️ Learning Cloud, Kubernetes & Terraform  
 🔐 Interested in DevSecOps & Cybersecurity  
 🐧 Linux Enthusiast  
